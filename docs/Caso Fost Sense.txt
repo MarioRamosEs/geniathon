@@ -1,0 +1,229 @@
+FOST SENESE
+Advanced Hydrogen Sensing
+Ensuring a safe and effective transition to a Hydrogen Economy
+FEASIBILITY STUDY 
+STARTED FOR ### UNIT’S 
+FOR H2 REDELIVERY IN 
+EUROPEAN GAS NETWORK 
+CONTRACT SIGNED FOR 
+10 INSTRUMENTS & 
+SHARED IP ON NEW H2S 
+MEMBRANE
+PROF DAVID 
+ZITOUN
+CTO
+ENERGY 
+STORAGE
+10 Patents. 8 Patents used within 
+Industry. Head of the Dept of Chemistry Bar-Ilan University Nano Centre
+DR SANJAY 
+UPADHYAY
+Chief Chemist
+HYDROGEN 
+SENSORS
+PHD Hydrogen sensing: Synthesis of layered 2H–MoSe2 nanosheets for the high-performance supercapacitor electrode material
+MR. DAVID 
+SUTER
+CEO
+DATA 
+INTEROPERABILITY
+Serial science tech, winning awards, smart city hackathons finalist at TechCrunch 
+Disrupt. ICO Standards Committee
+Scientists
+Humboldt Berlin
+Materials and Energy Storage
+Prof. Nicola Pinna
+Prof. Frderic Favier
+Montpellier University
+Green Flame Sensors
+Anne Baer
+iKare Innovation 
+Sustainability
+Kevin Shacknofsky
+O&G
+Finance
+Advisory Board
+Prof. Shpaisman Hagay
+Bar Ilan University
+Quantum optics with multi-photon
+Elizaveta Lukovskaya
+Bar Ilan University
+Compliance and Regulations
+Solar Edge
+Hydrogen Sensors
+Dr. Guy Rahamim
+Team
+LEAK DETECTION
+H2 | INA1R
+Rip and stick sensors, detectable at 70 ppm only, embeddable at 3μm in size for hazardous environments
+Product
+GAS QUANTIFICATION
+H2 | INGA5
+Detecting 0.2% concentration, accurate to 3% for calorific value / combustion control 
+Application
+Precise 
+Detection 
+of Leak
+Know your 
+Hydrogen 
+Content 
+o Piping Joints
+o Flanges & Valves 
+o Storage Tanks
+o Compression / 
+Measurement Stations
+o Combustion Control
+o Redelivery Points
+o Injection Management
+o Biomethane Reactors
+o Storage
+Precision Protection for a 
+Hydrogen-Powered World.
+Plug & play inspection
+Automate the regular inspection and maintenance of valves, flanges, 
+pumps, compressors, joints, storage tanks, pressure relief devices. 
+and connections for potential leaks. Gaskets and seals used in pumps, valves, and flanges can degrade or fail over time, leading to leakage, by implementing Fast Sense we can help minimize leaks and prolong the equipment's lifespan, promoting a safer and more environmentally responsible operation.
+USE CASE 
+MOBILITY
+Precision Protection for a Hydrogen-Powered World. Fast Sense is ideal for continuous monitoring in a Hydrogen (H2) pipelines due to our high sensitivity and real-time response 
+capabilities. Integrated into an automated system, our sensors’ are low maintenance and environmental stable making Fast Sense a reliable and efficient solution for ensuring safety and efficiency in the H2 transportation system.
+Safeguard 
+Fuel cell 
+storage 
+tanks
+Quantify
+Hydrogen 
+delivery 
+CH₄
+METHANE H₂
+HYDROGEN
+6
+Know your Hydrogen Content 
+Pipelines are limited to 2% blend with some countries allowing 10%-20%. For new suppliers of Green H2
+Energy to enter the market, H₂ needs to be injected and reduced from 100% down to the acceptable amounts. 
+The mix Methane (Natural gas) and H₂ must quantified for both operational and precise fiscal billing.
+Accurate and reliable H2 delivery with continuously monitoring
+Controlled blending of natural gas and H2 from electrolysis is crucial to comply with regulations and maintain the desired 5-20% H2 levels in the gas grid. Fast Sense sensors continuously monitor H2 levels, enabling valve adjustments for accurate H2 
+flow.
+USE CASE 
+PIPELINE 
+Sensing in Bio-methanation
+Industrial Bio-methanation 
+beyond Industrial usage
+Concept’s known as "home hydrogen production" or "residential hydrogen generation." could compliment the biogas home kits for biomethanation in which a market for Fast Sense could open up beyond industrial usage.
+USE CASE 
+MOBILITY
+Injecting H2 gas into biogas and AD reactors plays a vital role in optimizing process conditions, To enhance the 
+efficiency of the bio methanation process, it is crucial to optimize the dissolution of H2. Consequently, monitoring 
+the concentration of H2 becomes significant in the bio methanation reactor, both in terms of its presence in the 
+liquid phase and the gas phase.
+Our sensor probe goes in here Hydrogen gets injected here Hydrogen Redelivery Points Blending/Deblending
+When Hydrogen is delivered as a blend and needs to be deblended, Fast Sense accurately measures the hydrogen content at each point, streamlining fiscal billing processes and offering a reliable alternative to traditional methods. This 
+advanced technology ensures accurate measurements and 
+cost savings for various applications in the gas industry.
+USE CASE 
+MOBILITY
+Fast Sense provides a cost-effective solution for uantifying the hydrogen content at redelivery points, eliminating the need for expensive gas chromatographs. Whether for storage, refueling, or industrial usage, these exit points are critical in gas delivery. 
+Safeguard 
+Fuel cell 
+storage 
+tanks
+Quantify
+Hydrogen 
+delivery 
+The Need for Hydrogen Gas Monitoring
+• Risks associated with Hydrogen leaks.
+• Importance of real-time monitoring for safety & efficiency.
+Federal regulators to consider whether to shut 
+down Weymouth gas compressor
+Different animal because of its Fugitive molecule
+• Hydrogen not Methane
+Real-time, Reliable, Accurate 
+and Miniature Embeddable 
+Sensors on a Chip 
+(End nodes)
+Management 
+Cluster Gateway
+(LoRaWan/5G)
+Cloud-based 
+Optimized Data 
+(API Endpoints) Dashboard of Clustered 
+End Node Sensors 
+(H2 Quantification)
+Presentation of Fast Sense Technology
+• Fast Sense technology for remote locations and measuring stations.
+• Suitable for environments, including challenges like limited access, harsh conditions, 
+and the critical need for accurate and reliable monitoring.
+Technology Deep Dive
+• How we sense.
+• Next step is micro nano sized casing and microelectronics.
+Patent: Laser Induced Bubble Technique - Semiconductor Fabrication with Nanoparticles (US/Europe)
+Fabrication process Membrane
+Overview POC Scope & Future Vision
+• POC not Prototype: Determine potential.
+• Target: Network of sensors in remote locations
+• Testing Process: Mimic the conditions in remote locations to ensure reliability and accuracy.
+• Future Development:
+• Price Point: Moves to production, economies of scale 
+- reduce the price to $$’s not $$$$’s.
+• Size Reduction: Plans for compatibility, enhancing 
+applicability in various settings.
+• Power Usage: Reduce power consumption in the final 
+product, contributing to sustainability and operational efficiency.
+Installation Requirements, Needs, & Leak Detection Testing
+• Materials:
+• Leak Detection Test Equipment: Test equipment needed for leak detection, such as pressure 
+gauges, portable gas sensors, on wall gas sensors, gas analyzers, etc.
+• Integration with Existing Equipment: Test equipment to work alongside Fast Sense 
+technology and any existing equipment at the location.
+Hydrogen Leak Straps
+Equipment and flange integrity
+POC Requirements, Needs, & Leak Detection Though Process
+• Testing Process:
+• Leak Detection: Methodology for testing leak detection, including procedures, 
+parameters, and expected outcomes.
+• Compatibility with Remote Locations: Simulate special considerations to address 
+how the testing procedure and equipment would be suitable for remote locations and measuring stations. Iot, LAN, Modbus etc
+• Considerations for the POC: Additional support or monitoring that might not be required for the final product.
+• Operating Conditions: Casing in protecting the sensors will be down to materials and design that offer durability and resistance to environmental factors
+Field Demonstration
+• Demo: Demonstrating the sensor in a real pipeline environment.
+• Reporting: Procedures, goals, and expected outcomes.
+SOW
+• Startup (Fast Sense Technology):
+• Development: Manpower related to the design, manufacturing, and testing of the prototype.
+• Implementation: Manpower for implementing product, including hardware, 
+software, and integration with existing systems.
+SOW 
+• TSO Network (Enagás):
+• Sensor Installation: Manpower associated with integrating sensors into the existing gas network, including hardware, labor, and any modifications to infrastructure.
+• Testing & Monitoring: Expenses for additional testing equipment and ongoing monitoring services.
+• Remote Location Considerations: Implementing and maintaining sensors in remote locations and measuring stations.
+Planning
+•Enagás Timelines:
+• Sensor Installation:
+• 1-3 months: This includes assessing the sites, procuring necessary equipment, actual installation, and initial testing.
+• Testing & Monitoring:
+• Ongoing, with initial intensive testing over 1-2 months: This period will involve frequent checks and refinements.
+• Remote Location Considerations:
+• Additional 2-4 weeks: Taking into account the logistics and challenges of remote locations.
+SEPT SCOPE DEC
+OCT JAN
+NOV FEB BUFFER
+Planning
+•Fast Sense Timelines:
+• POC Development:
+• 3-4 months: Involves designing, creating, testing, and refining the sensors casing, electronics and certification.
+• Onsite Implementation:
+• 1-2 months: After the sensor is refined, implementing the POC might be quicker since the foundation has been set.
+• Future Development & Scale (TBD):
+• 6-12 months: This phase might be longer as it involves refining the product based on POC feedback, scaling production, and implementing cost-saving measures.
+SEPT SCOPE DEC
+OCT JAN
+NOV FEB BUFFER
+Challenges & Solutions
+• Identification of potential obstacles in implementation.
+• Strategies to address these challenges.
+Questions & Thank You
+• Open the floor for questions.
+• Thank attendees for their time and consideration
